@@ -6,6 +6,9 @@
 
 Manage todo lists with ease. Powerful, easy to use and customizable. [View the demo](#demo).
 
+## Fork features
+Make it as same as sublimetext plugin [PlainTasks](https://github.com/aziz/PlainTasks).
+
 ## Features
 
 - **Easy to use**: you're just a few shortcuts away from becoming a master
